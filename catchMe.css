@@ -1,0 +1,22 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    font-family: sans-serif;
+    background: linear-gradient(to right, #ACB6E5, #74ebd5); 
+
+}
+
+.box{
+    width:80px;
+    height:80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to left, #da22ff, #9733ee);
+    color: white;
+    position: absolute;
+    font-weight: bold;
+}
